@@ -1,6 +1,6 @@
 import pyautogui,time
 import pyperclip
-pyautogui.PAUSE=0.05
+pyautogui.PAUSE=0
 def a(b,c,d):
     time.sleep(c)
     while True:

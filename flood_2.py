@@ -1,6 +1,6 @@
 import pyautogui,time
 import pyperclip
-pyautogui.PAUSE=0.05
+pyautogui.PAUSE=0
 def a(b,c,d):
     time.sleep(c)
     text=open(b,encoding="utf-8").read()
